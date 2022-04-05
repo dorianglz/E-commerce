@@ -1,0 +1,27 @@
+.mainTitle {
+    font-size: 50px;
+}
+
+.container {
+    background-color: #003566a0;
+    display: flex;
+    justify-content: space-between;
+    height: 500px;
+    border-radius: 40px;
+}
+
+.content {
+    /* border: 1px solid red; */
+    width: fit-content;
+    height: 70%;
+    margin-left: 64px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.imageContainer {
+    /* border: 1px solid green; */
+    display: flex;
+    flex-direction: column-reverse;
+}

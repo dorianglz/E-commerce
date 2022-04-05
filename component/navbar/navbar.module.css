@@ -1,0 +1,6 @@
+.navbar {
+    display: flex;
+    padding: 8px 100px;
+    background-color: #DCDCDC;
+    height: fit-content;
+}
